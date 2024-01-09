@@ -19,7 +19,3 @@ stripe
 typing_extensions
 tzdata
 urllib3
-antiorm
-db
-db-sqlite3
-_sqlite3
